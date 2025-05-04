@@ -1,0 +1,16 @@
+.DS_Store
+x64/
+[Dd]ebug/
+[Rr]elease/
+
+*.pdb
+
+*.ilk
+*.tlog/
+*.idb
+*.CppClean
+*.recipe
+*.FileListAbsolute
+*.obj
+.vs/
+.vscode/
